@@ -1,0 +1,23 @@
+{
+             "Version" : "1.0.1",
+    
+        "Project_Name" : "CRC_Voting",
+  
+              "Symbol" : "VTG",
+        
+            "Language" : "JavaScript",
+
+          "Blockchain" : "0x8a20baa40c45dc5055aeb26197c203e576ef389d9acb171bd62da11dc5ad72b2",
+        
+       "Owner_Address" : "Enter here the owner wallet address",
+       
+      "Developer_Name" : "Enter here the developer Name",
+      
+   "Developer_Address" : "Enter here the developer Address",
+   
+     "Dev_Private_Key" : "Enter here the developer Private Key",
+     
+        "Testing_From" : "Enter here a testing known wallet address",
+       
+          "Testing_To" : "Enter here a testing known wallet address"
+}
